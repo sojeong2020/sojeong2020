@@ -19,6 +19,7 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
 
+<span><img src="https://github.com/devicons/devicon/blob/v2.12.0/icons/react/react-plain.svg" width="30px"></span>&nbsp;
 
 ## Full Stack Project
  <a href="https://competent-jepsen-ad94e4.netlify.app">:game_die:</a> GameReview React App
