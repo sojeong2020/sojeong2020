@@ -1,9 +1,9 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="sojeong's LinkedIN" width="22px" src="https://www.linkedin.com/in/sojeong-park-8650b216b/" />
-</a>
 
+<a href="https://www.linkedin.com/in/sojeong-park-8650b216b/">
+  <img align="left" alt="sojeong's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 
 
@@ -26,5 +26,5 @@ hi, i'm [sojeong park](https://competent-jepsen-ad94e4.netlify.app), a passionat
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<br />
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sojeong2020)
