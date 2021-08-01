@@ -12,7 +12,7 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="30px"></span>&nbsp;
-<span><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"width="30px"></span>&nbsp;
+<span><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="30px"></span>&nbsp;
 
 
 
