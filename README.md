@@ -19,7 +19,7 @@
 
 ## Full Stack Project
 
- <a href="https://competent-jepsen-ad94e4.netlify.app">:game_die:</a> GameReview React App :<a href="https://github.com/sojeong2020/be-nc-games"> 🔙 Backend </a> ,<a href="https://github.com/sojeong2020/GameReviews-React-App"> :nail_care: frontend </a>
+### <a href="https://competent-jepsen-ad94e4.netlify.app">:game_die:</a> GameReview React App :<a href="https://github.com/sojeong2020/be-nc-games"> 🔙 Backend </a> ,<a href="https://github.com/sojeong2020/GameReviews-React-App"> :nail_care: frontend </a>
  
 
 
