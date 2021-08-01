@@ -1,5 +1,5 @@
 # Hello 👋 Nice to see you.
-### My name is Sojeong and I am a trainee full stack developer. I am from South Korea  :kr: , living in Manchester :uk: .  
+### I am a trainee full stack developer. I am from South Korea  :kr: , living in Manchester :uk: .  
 
 
 ## Things I code with
