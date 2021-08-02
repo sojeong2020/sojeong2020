@@ -8,10 +8,10 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" width="30px"></span>&nbsp;
+<span><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30px"></span>&nbsp;
-<span><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="30px"></span>&nbsp;
 <span><img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" width="30px"></span>&nbsp;
 
 
