@@ -18,8 +18,14 @@
 
 
 ## Full Stack Project
+<style type="text/css" media="screen">
+a:link { color:#33348e; text-decoration: none; }
+a:visited { color:#33348e; text-decoration: none; }
+a:hover { color:#33348e; text-decoration: none; }
+a:active { color:#7476b4; text-decoration: underline; }
+</style>
 
-### <p style="color:red"><a href="https://games-reviews.netlify.app">:game_die:</a> <a href="https://games-reviews.netlify.app"> GameReview React App </a>:<a href="https://github.com/sojeong2020/be-nc-games"> 🔙 Backend </a> ,<a href="https://github.com/sojeong2020/GameReviews-React-App"> :nail_care: frontend </a></p>
+### <a href="https://games-reviews.netlify.app">:game_die:</a> <a href="https://games-reviews.netlify.app"> GameReview React App </a>:<a href="https://github.com/sojeong2020/be-nc-games"> 🔙 Backend </a> ,<a href="https://github.com/sojeong2020/GameReviews-React-App"> :nail_care: frontend </a>
  
 
 
