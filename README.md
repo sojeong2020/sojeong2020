@@ -19,7 +19,7 @@
 
 ## Full Stack Project
 
-### <a href="https://games-reviews.netlify.app">:game_die:</a> <a href="https://games-reviews.netlify.app"> GameReview React App </a.>:<a href="https://github.com/sojeong2020/be-nc-games"> 🔙 Backend </a> ,<a href="https://github.com/sojeong2020/GameReviews-React-App"> :nail_care: frontend </a>
+### <a href="https://games-reviews.netlify.app">:game_die:</a> <a href="https://games-reviews.netlify.app"> GameReview React App </a>:<a href="https://github.com/sojeong2020/be-nc-games"> 🔙 Backend </a> ,<a href="https://github.com/sojeong2020/GameReviews-React-App"> :nail_care: frontend </a>
  
 
 
