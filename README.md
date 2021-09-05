@@ -1,5 +1,6 @@
 # Hello 👋 
 ### I am a trainee full stack developer. I am from South Korea  :kr: , living in Manchester :uk: .  
+### Here is my portfolio [live link.](https://sojeongpark.netlify.app)
 
 
 ## Things I code with
